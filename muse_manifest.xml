@@ -1,0 +1,1570 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://vhost23557.cpsite.ru" resolutions="1x" timestamp="1491081607330">
+  <folder name="images">
+    <file name="loog.png" crc="4238618135" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="scool" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="home-главная.jpg" crc="103153265" ref="lirika:map">
+      <caption webpage="index" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="home-главная копия 2.png" crc="4286082966" ref="lirika:map">
+      <caption webpage="index" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="home-главная копия.png" crc="133613317" ref="lirika:map">
+      <caption webpage="index" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="contact-слой 1 копия.jpg" crc="164580412" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="contact-контакты копия 2.png" crc="507320365" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="contact-контакты копия.png" crc="292346102" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="uprava-слой 1 копия.jpg" crc="6343492" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="uprava-слой 1 копия 2.png" crc="499016737" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="uprava-слой 1.png" crc="3810219291" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="news-слой 1 копия 2.jpg" crc="3768866718" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="news-слой 1 копия.png" crc="3889896412" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="news-слой 1.png" crc="3825036030" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="history-слой 1 копия 2.jpg" crc="373060942" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="history-слой 1 копия.png" crc="4183326759" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="history-слой 1.png" crc="4141820382" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="poeziy.png" crc="216532862" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+    </file>
+    <file name="dalie.jpg" crc="4205773997" ref="history:index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="dalie-далее копия 3.png" crc="4181102596" ref="history:index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="dalie-далее копия.png" crc="79847976" ref="history:index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="rai.jpg" crc="246657993" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kurgan.jpg" crc="350061064" ref="history:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vov-слой 1 копия.jpg" crc="3866998697" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vov-слой 1 копия 2.png" crc="164927757" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vov-слой 1 копия 3.png" crc="121269924" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="scool-слой 1.jpg" crc="363653940" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="scool-слой 1 копия.png" crc="493538218" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="scool-слой 1 копия 2.png" crc="428633333" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="mans-жители копия 2.jpg" crc="364423698" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="mans-жители копия.png" crc="4174684382" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="mans-жители.png" crc="4034714217" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="lirik-слой 2 копия 2.jpg" crc="484484441" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="lirik-слой 2.png" crc="112259987" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="lirik-слой 2 копия.png" crc="273438309" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="map-слой 1 копия 2.jpg" crc="3939404308" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="map-слой 1.png" crc="3985867777" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="map-слой 1 копия.png" crc="3837532605" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vk1-слой 1 копия 2.jpg" crc="522678782" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vk1-слой 1.png" crc="3954452858" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vk1-слой 1 копия.png" crc="4235062595" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vk2-слой 1 копия.jpg" crc="252480539" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vk2-слой 1.png" crc="4107414085" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="vk2-слой 1 копия 2.png" crc="3812522238" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="imag-слой 1.jpg" crc="176066792" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="imag-слой 1 копия 2.png" crc="3990724927" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="imag-слой 1 копия.png" crc="4262351467" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="partner-слой 1 копия 2.jpg" crc="3862597360" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="partner-слой 1 копия.png" crc="4088740149" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="partner-слой 1.png" crc="467668644" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="media-слой 1 копия 2.jpg" crc="290689280" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="media-слой 1.png" crc="4077374456" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="media-слой 1 копия.png" crc="3905863326" ref="index:lirika">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="karelia.png" crc="127941978" ref="index:lirika">
+      <caption webpage="vov" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="scool-1" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+      <caption webpage="scool" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="history_albom" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="partner" alt=""/>
+      <caption webpage="uprava" alt=""/>
+    </file>
+    <file name="nebo.png" crc="4272580028" ref="contact:lirika:mans:scool:vov:history:news:uprava:image:partner:media:scool-1:history_curgan:history_albom:index:news1:news2:news3:lirika1:lirika2:lirika3:history_curgan1:rai:mans1">
+      <caption webpage="mans1" alt=""/>
+      <caption webpage="rai" alt=""/>
+      <caption webpage="vov" alt=""/>
+      <caption webpage="partner" alt=""/>
+      <caption webpage="lirika" alt=""/>
+      <caption webpage="uprava" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news1" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="lirika3" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="lirika2" alt=""/>
+      <caption webpage="scool" alt=""/>
+      <caption webpage="history_curgan1" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="history_albom" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+      <caption webpage="news3" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="image" alt=""/>
+      <caption webpage="news2" alt=""/>
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="adminka.jpg" crc="221797925" ref="uprava">
+      <caption webpage="uprava" alt=""/>
+    </file>
+    <file name="vk2.png" crc="4159781349" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="obratnay.jpg" crc="4008376198" ref="contact:mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="dw.png" crc="62247499" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="lloog.png" crc="256693809" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="vk1.png" crc="4148477262" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="muse.png" crc="3806843245" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="karelia2.png" crc="20457799" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="vov" alt=""/>
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="5кл 1956.jpg" crc="242974257" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="bootl.png" crc="405351110" ref="scool:vov:scool-1:history:history_curgan">
+      <caption webpage="scool" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="vov" alt=""/>
+      <caption webpage="vov" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="bootl-фигура 1.png" crc="3789818967" ref="scool:vov:scool-1:history:history_curgan">
+      <caption webpage="vov" alt=""/>
+      <caption webpage="vov" alt=""/>
+      <caption webpage="scool" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="bootr.png" crc="260601479" ref="scool:vov:scool-1:history:history_curgan">
+      <caption webpage="vov" alt=""/>
+      <caption webpage="vov" alt=""/>
+      <caption webpage="scool" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="bootr-фигура 1.png" crc="4288591963" ref="scool:vov:scool-1:history:history_curgan">
+      <caption webpage="vov" alt=""/>
+      <caption webpage="vov" alt=""/>
+      <caption webpage="scool" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="2а кл 1967.jpg" crc="4023219466" ref="scool">
+      <caption webpage="scool-1" alt=""/>
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="2кл 1967.jpg" crc="378122568" ref="scool">
+      <caption webpage="scool-1" alt=""/>
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1968.jpg" crc="438051237" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="выпуск 1968.jpg" crc="384481415" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="выпуск 1973 1969.jpg" crc="215781319" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="vov-слой 3.jpg" crc="472786164" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="vov-слой 1.png" crc="4219854538" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="vov-слой 2.jpg" crc="3858745519" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="3.gif" crc="109939035" ref="vov">
+      <caption webpage="vov" alt=""/>
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="1.gif" crc="80384309" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="2.gif" crc="172277536" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="4.gif" crc="251028383" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="5.gif" crc="327008707" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="12.gif" crc="3833516878" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="6.gif" crc="4160662779" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="7.gif" crc="3903123202" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="8.gif" crc="187788646" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="9.gif" crc="475069134" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="10.gif" crc="350818610" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="11.gif" crc="3814304375" ref="vov">
+      <caption webpage="vov" alt=""/>
+    </file>
+    <file name="7-слой 0.png" crc="4216882796" ref="scool:scool-1:news:news1:news2:news3:mans:mans1">
+      <caption webpage="scool" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="1-слой 0.png" crc="4078687232" ref="scool:scool-1:news:news1:news2:news3:mans:mans1">
+      <caption webpage="scool" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="1-слой 1.png" crc="197267868" ref="scool:scool-1:news:news1:news2:news3:mans:mans1">
+      <caption webpage="scool" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="2-слой 0.png" crc="51033819" ref="scool:scool-1:news:news1:news2:news3:mans:mans1">
+      <caption webpage="scool" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="2-слой 0 копия.png" crc="17115332" ref="scool:scool-1:news:news1:news2:news3:mans:mans1">
+      <caption webpage="scool" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="6-слой 0.png" crc="367712213" ref="scool:scool-1:news:news1:news2:news3:mans:mans1">
+      <caption webpage="scool" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="6-слой 0 копия.png" crc="106523253" ref="scool:news:news1:news2:mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="4а кл 1970.png" crc="405026322" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1971.png" crc="3827527999" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="март 1971.jpg" crc="208853207" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="4б 1972.jpg" crc="4284760172" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="выпуск 1972.jpg" crc="3861847574" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1973.png" crc="4030090498" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="выпуск 1973.jpg" crc="435590718" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1974.png" crc="312331532" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1-1 сентября 1975.png" crc="3828575196" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="2-1 сентября 1975.png" crc="4052892155" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1-1976.jpg" crc="4103073811" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="2-1976.png" crc="3947392816" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="6кл 1976.jpg" crc="4115034532" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="преподователи 1976.jpg" crc="169526683" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="5кл 1978.jpg" crc="353067093" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="выпуск 1978.png" crc="4064501515" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1979.jpg" crc="3966786963" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1980.png" crc="418454748" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1981.jpg" crc="4261107495" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1982.jpg" crc="4141858174" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="собрание 11 июня 1982.jpg" crc="289480181" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1983.jpg" crc="140395821" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="6кл 1984.jpg" crc="431355137" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="2кл 1987 (2).jpg" crc="3930020725" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="2кл 1987.jpg" crc="211116101" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1987.jpg" crc="298174880" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="1988.jpg" crc="66096288" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="3кл ноябрь 1989.jpg" crc="4016652547" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="выпуск 1989.jpg" crc="3909768170" ref="scool">
+      <caption webpage="scool" alt=""/>
+    </file>
+    <file name="7-слой 0 копия.png" crc="390109139" ref="scool-1:news1:news2:news3:mans1">
+      <caption webpage="mans1" alt=""/>
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="curgann.png" crc="12165120" ref="history_curgan">
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="slide1.jpg" crc="5586101" ref="history_albom">
+      <caption webpage="history_curgan" alt=""/>
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (1).jpg" crc="390416226" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (2).jpg" crc="274202496" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (3).jpg" crc="3918922682" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (4).jpg" crc="500815664" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (5).jpg" crc="4028181826" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (6).jpg" crc="398342374" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (7).jpg" crc="3850508787" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (8).jpg" crc="3945592602" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (9).jpg" crc="4157580867" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (10).jpg" crc="270785461" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (11).jpg" crc="3920579241" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (12).jpg" crc="4240012610" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (13).jpg" crc="325040849" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (14).jpg" crc="390891076" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (15).jpg" crc="272301630" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (16).jpg" crc="221924329" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (17).jpg" crc="313471590" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (18).jpg" crc="4084807683" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (19).jpg" crc="4047207715" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (20).jpg" crc="3863945918" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (21).jpg" crc="23677891" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (22).jpg" crc="230335322" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (23).jpg" crc="3834949597" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (24).jpg" crc="374467670" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (25).jpg" crc="3944235889" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (26).jpg" crc="367662575" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (27).jpg" crc="4051288094" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (28).jpg" crc="4120853522" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (29).jpg" crc="351109002" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (30).jpg" crc="174475656" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (31).jpg" crc="402145100" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (32).jpg" crc="152604793" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (33).jpg" crc="35691015" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (34).jpg" crc="75964427" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (35).jpg" crc="4267246979" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (36).jpg" crc="15592783" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (37).jpg" crc="385349106" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (38).jpg" crc="4109793648" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (39).jpg" crc="3789723917" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (40).jpg" crc="3914755332" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (41).jpg" crc="52956872" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (42).jpg" crc="279125766" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (43).jpg" crc="279778734" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (44).jpg" crc="4062506381" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (45).jpg" crc="4271452066" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (46).jpg" crc="4236870547" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (47).jpg" crc="4285446745" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (48).jpg" crc="4180273222" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (49).jpg" crc="197300744" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (50).jpg" crc="470529919" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (51).jpg" crc="245481178" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (52).jpg" crc="3888200459" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (53).jpg" crc="4055922596" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (54).jpg" crc="4036409092" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (55).jpg" crc="4260048490" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (56).jpg" crc="240560354" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (57).jpg" crc="124242425" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (58).jpg" crc="234618562" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (59).jpg" crc="3874466265" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (60).jpg" crc="90562267" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="112 (61).jpg" crc="184823258" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="bootl1.png" crc="198108594" ref="history_albom:news:lirika2">
+      <caption webpage="history_albom" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="bootl1-слой 2.png" crc="4070788944" ref="history_albom:news:lirika2">
+      <caption webpage="history_albom" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="bootr1-слой 3.png" crc="4201306806" ref="history_albom">
+      <caption webpage="history_albom" alt=""/>
+    </file>
+    <file name="bootr1-слой 2.png" crc="4291198016" ref="history_albom:news:lirika2">
+      <caption webpage="history_albom" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="шаблон-b-favicon.ico" crc="3947115724" ref="lirika"/>
+    <file name="112 (1)-u23855-fr.jpg" crc="79042378" ref="history"/>
+    <file name="112 (7)-u23856-fr.jpg" crc="190886492" ref="history"/>
+    <file name="112 (41)-u23857-fr.jpg" crc="4048715608" ref="history"/>
+    <file name="112 (54)-u23858-fr.jpg" crc="4223267072" ref="history"/>
+    <file name="1990.jpg" crc="105954268" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="1кл 1990.png" crc="3958641213" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="2кл 1990.jpg" crc="4192387695" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="1991.jpg" crc="445995240" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="преподователи 1991.png" crc="469545952" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="home-главная2.jpg" crc="103153265" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-главная копия 22.png" crc="4286082966" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-главная копия2.png" crc="133613317" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шаблон-с-favicon.ico" crc="3947115724" ref="map"/>
+    <file name="most.png" crc="3995482661" ref="map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="schol.png" crc="4156580235" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="bich.png" crc="421063177" ref="map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="water_wild.png" crc="4207698903" ref="map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="water_bad.png" crc="461939495" ref="map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="less.png" crc="193728433" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="jd_station.png" crc="235193059" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="deadch.png" crc="4102828792" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="jd_per.png" crc="4208768114" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="water_tauer.png" crc="3857581454" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="zavod.png" crc="4179199238" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="rock.png" crc="396762851" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="medcentr.png" crc="514964604" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="club.png" crc="312602351" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="shops.png" crc="473199476" ref="map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="pamytnic.png" crc="4040193105" ref="map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="zapkarel.png" crc="465527628" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="post.png" crc="4100463012" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4172486803" ref="history">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="3.jpg" crc="207515654" ref="map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="4.jpg" crc="473464331" ref="map">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="8.jpg" crc="3854312690" ref="history_curgan:map">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="20.jpg" crc="217469912" ref="history_curgan:map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="21.jpg" crc="3974683968" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="nott.jpg" crc="525809450" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="23.jpg" crc="262578190" ref="map">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="13.jpg" crc="3850478003" ref="history_curgan:map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="11.jpg" crc="3782643878" ref="history_curgan:mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="14.jpg" crc="7526198" ref="history_curgan:map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="15.jpg" crc="458778477" ref="history_curgan:map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3862492718" ref="mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="16.jpg" crc="3973365047" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="17.jpg" crc="468484460" ref="history_curgan:map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4003488087" ref="mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="7.jpg" crc="3807350842" ref="mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="9.jpg" crc="453156998" ref="history_curgan:map">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="10.jpg" crc="258728389" ref="history_curgan:map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="22.jpg" crc="88367952" ref="map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4280799123" ref="mans">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="bootl-слой 1.png" crc="392393883" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="bootr-слой 1 копия.png" crc="129535638" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="bootr-слой 1.png" crc="4011166857" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="delete-icon-1-слой 2 копия.png" crc="3758464162" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="delete-icon-1-слой 2.png" crc="101597096" ref="map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="raiki_4000x3000.png" crc="3970529315" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="karelia11.jpg" crc="99658921" ref="lirika">
+      <caption webpage="lirika" alt=""/>
+    </file>
+    <file name="1.png" crc="3839992185" ref="history">
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="3.png" crc="4017727954" ref="mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="4.png" crc="3866329957" ref="mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="media"/>
+    <file name="1кл 1992.jpg" crc="337816491" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="выпуск 1993 (9кл сентябрь 1992).png" crc="3783298715" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="сентябрь 1992 3кл.png" crc="4078986119" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="1993.jpg" crc="99602488" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="1кл 1993.jpg" crc="348868517" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="выпуск 1994.jpg" crc="455610862" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="5кл 1994.jpg" crc="4294254577" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="13 сентября 1995 7кл.jpg" crc="490651614" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="13 сентября 1995 4кл.jpg" crc="62247967" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="13 сентября 1995.jpg" crc="406437015" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="1995 (2).jpg" crc="3979412037" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="1995.jpg" crc="168417787" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="9кл 1996.jpg" crc="4225079297" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="11кл 1996.jpg" crc="3881428898" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="4кл 1997.jpg" crc="3957886424" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="9кл 1997.png" crc="3867648900" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="29 сентября 1998.jpg" crc="4045656517" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="1998.jpg" crc="6243021" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="16 сентября 1999 11кл.jpg" crc="3916735183" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="16 сентября 1999 (2).png" crc="434513169" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="16 сентября 1999.jpg" crc="3937632004" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="1999.jpg" crc="24422108" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="24 марта 2001.png" crc="3777774781" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="50 лет.jpg" crc="3856719999" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="2002.jpg" crc="4067655862" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="2003.png" crc="455989188" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="выпуск 2004 9кл.jpg" crc="4273983293" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="зарница 2004.png" crc="240551304" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="сентябрь 2004 11кл.png" crc="3963696262" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="4кл 2005 (2).png" crc="361641356" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="4кл 2005.jpg" crc="505313219" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="выпуск 2006 11кл.png" crc="4067320436" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="выпуск 2006 11кл.jpg" crc="3933383607" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="7кл 2007.png" crc="531127748" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="5кл 2011.jpg" crc="290182526" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="выпуск 2011.png" crc="3957178672" ref="scool-1">
+      <caption webpage="scool-1" alt=""/>
+    </file>
+    <file name="3-слой 0.png" crc="250520186" ref="news:news1:news2:news3">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="32.png" crc="46776773" ref="news:news1:news2:news3:history">
+      <caption webpage="news" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="4-слой 0.png" crc="362409040" ref="news:news1:news2:news3">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="4-слой 0 копия.png" crc="199665105" ref="news:news1:news2">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (4).jpg" crc="445693009" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (6).jpg" crc="181536027" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (7).jpg" crc="3941459331" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (10).jpg" crc="3929144815" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (11).jpg" crc="4002092850" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (12).jpg" crc="36436426" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (14).jpg" crc="505330829" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (15).jpg" crc="127499238" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (17).jpg" crc="4241709609" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (18).jpg" crc="227715080" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (19).jpg" crc="4179275647" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (20).jpg" crc="294323275" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (21).jpg" crc="499919649" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (22).jpg" crc="275253047" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="1 (23).jpg" crc="4195288706" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="bootr1.png" crc="4005854385" ref="news:lirika2">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="vk3.png" crc="531724136" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="42.png" crc="326700231" ref="news3:history">
+      <caption webpage="news3" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="32.jpg" crc="414409442" ref="lirika1">
+      <caption webpage="lirika1" alt=""/>
+    </file>
+    <file name="52.jpg" crc="479866286" ref="history">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="62.jpg" crc="508778123" ref="history">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="history" alt=""/>
+    </file>
+    <file name="bootl1-u35132-fr.png" crc="3780781383" ref="lirika1"/>
+    <file name="bootl1-u35132-r-fr.png" crc="495351663" ref="lirika1"/>
+    <file name="bootr1-u35149-fr.png" crc="350500781" ref="lirika1"/>
+    <file name="bootr1-u35149-r-fr.png" crc="4022881837" ref="lirika1"/>
+    <file name="poetesa.jpg" crc="150694614" ref="lirika1">
+      <caption webpage="lirika1" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4107384311" ref="history_curgan:mans">
+      <caption webpage="lirika2" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="24.jpg" crc="4062122835" ref="lirika1">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="33.jpg" crc="3974787500" ref="lirika2">
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="42.jpg" crc="406406050" ref="lirika1">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="53.jpg" crc="3780282587" ref="lirika1:map">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="63.jpg" crc="531124878" ref="lirika1:map">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="72.jpg" crc="4213611259" ref="lirika1:map">
+      <caption webpage="lirika1" alt=""/>
+      <caption webpage="map" alt=""/>
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="fuvv.jpg" crc="281753324" ref="lirika2">
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="u36900.png" crc="302714062" ref="media"/>
+    <file name="u36900-r.png" crc="4029235979" ref="media"/>
+    <file name="u36900-a.png" crc="302714062" ref="media"/>
+    <file name="u37124.png" crc="124168433" ref="media"/>
+    <file name="u37124-r.png" crc="4161892606" ref="media"/>
+    <file name="u37124-a.png" crc="124168433" ref="media"/>
+    <file name="u37128.png" crc="90470072" ref="media"/>
+    <file name="u37128-r.png" crc="4090256297" ref="media"/>
+    <file name="u37128-a.png" crc="90470072" ref="media"/>
+    <file name="u37149.png" crc="3995287098" ref="media"/>
+    <file name="u37149-r.png" crc="3853330126" ref="media"/>
+    <file name="u37149-a.png" crc="3995287098" ref="media"/>
+    <file name="u37169.png" crc="50608634" ref="media"/>
+    <file name="u37169-r.png" crc="399471998" ref="media"/>
+    <file name="u37169-a.png" crc="50608634" ref="media"/>
+    <file name="u37172.png" crc="321387275" ref="media"/>
+    <file name="u37172-r.png" crc="4215934385" ref="media"/>
+    <file name="u37172-a.png" crc="321387275" ref="media"/>
+    <file name="7-слой 1.png" crc="4165523143" ref="history_curgan">
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="16.png" crc="3993231127" ref="history_curgan">
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="18.jpg" crc="307962099" ref="history_curgan:map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="19.jpg" crc="269282021" ref="history_curgan">
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="21.png" crc="4073605390" ref="history_curgan">
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="23-слой 6.png" crc="354521408" ref="history_curgan">
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="6.png" crc="3999816126" ref="history_curgan">
+      <caption webpage="history_curgan" alt=""/>
+    </file>
+    <file name="socer.png" crc="4200816693" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="112.jpg" crc="434665674" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="222.jpg" crc="3907925549" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="24.png" crc="224313548" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="bootl2.png" crc="29888104" ref="map">
+      <caption webpage="map" alt=""/>
+    </file>
+    <file name="110.jpg" crc="523651842" ref="lirika1">
+      <caption webpage="lirika1" alt=""/>
+    </file>
+    <file name="83.jpg" crc="154750006" ref="lirika1">
+      <caption webpage="lirika1" alt=""/>
+    </file>
+    <file name="93.jpg" crc="327178493" ref="lirika1">
+      <caption webpage="lirika1" alt=""/>
+    </file>
+    <file name="111.jpg" crc="446604695" ref="lirika2">
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="25.jpg" crc="4111073839" ref="lirika2:map">
+      <caption webpage="map" alt=""/>
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="43.jpg" crc="3974787500" ref="lirika2">
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="54.jpg" crc="4121462083" ref="lirika2">
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="64.jpg" crc="4039767676" ref="lirika2">
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="73.jpg" crc="3931776073" ref="lirika2">
+      <caption webpage="lirika2" alt=""/>
+    </file>
+    <file name="55.jpg" crc="3766313542" ref="history_curgan1">
+      <caption webpage="history_curgan1" alt=""/>
+    </file>
+    <file name="223.jpg" crc="7312876" ref="rai">
+      <caption webpage="rai" alt=""/>
+    </file>
+    <file name="fil_oleg.jpg" crc="207358183" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="soc3-слой 0.png" crc="294965048" ref="mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="soc3.png" crc="4143478255" ref="mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="soc4-слой 0.png" crc="4038429783" ref="mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="soc4.png" crc="3813553431" ref="mans">
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="eroha_evgenia.jpg" crc="386381167" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="fil_nina.jpg" crc="18871821" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="fil_marina.jpg" crc="3959591425" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="ivanov.jpg" crc="3934906390" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="not_photo.jpg" crc="3887165295" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="lopatkin_roma.jpg" crc="178575959" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="2.png" crc="3884656995" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="u37224.png" crc="463275378" ref="media"/>
+    <file name="u37224-r.png" crc="4263064966" ref="media"/>
+    <file name="u37224-a.png" crc="463275378" ref="media"/>
+    <file name="u37296.png" crc="4240691803" ref="media"/>
+    <file name="u37296-r.png" crc="263153663" ref="media"/>
+    <file name="u37296-a.png" crc="4240691803" ref="media"/>
+    <file name="u37299.png" crc="184260536" ref="media"/>
+    <file name="u37299-r.png" crc="53261364" ref="media"/>
+    <file name="u37299-a.png" crc="184260536" ref="media"/>
+    <file name="u37302.png" crc="3808987597" ref="media"/>
+    <file name="u37302-r.png" crc="4112862058" ref="media"/>
+    <file name="u37302-a.png" crc="3808987597" ref="media"/>
+    <file name="kalivala.jpg" crc="440464602" ref="lirika:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="lirika" alt=""/>
+    </file>
+    <file name="dalie-u38322-fr.jpg" crc="4017346077" ref="lirika"/>
+    <file name="dalie-u38322-r-fr.png" crc="3808963734" ref="lirika"/>
+    <file name="dalie-u38322-m-fr.png" crc="4191167124" ref="lirika"/>
+    <file name="8.png" crc="4031012539" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="9.png" crc="92653749" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="10.png" crc="3789218021" ref="mans">
+      <caption webpage="mans" alt=""/>
+    </file>
+    <file name="lopa.jpg" crc="282150343" ref="partner">
+      <caption webpage="partner" alt=""/>
+    </file>
+    <file name="mald.jpg" crc="4261691923" ref="partner">
+      <caption webpage="partner" alt=""/>
+    </file>
+    <file name="wel.jpg" crc="86425386" ref="partner">
+      <caption webpage="partner" alt=""/>
+    </file>
+    <file name="wel1.jpg" crc="257877784" ref="partner">
+      <caption webpage="partner" alt=""/>
+    </file>
+    <file name="gbxl0g0dqzd84.gif" crc="4025375242" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4089726523" ref="index"/>
+    <file name="contact.css" crc="4145096352" ref="contact"/>
+    <file name="media.css" crc="4261685548" ref="media"/>
+    <file name="history.css" crc="4212513226" ref="history"/>
+    <file name="news.css" crc="3806760969" ref="news"/>
+    <file name="lirika.css" crc="144432972" ref="lirika"/>
+    <file name="uprava.css" crc="210431473" ref="uprava"/>
+    <file name="map.css" crc="4123559905" ref="map"/>
+    <file name="mans.css" crc="477542959" ref="mans"/>
+    <file name="image.css" crc="4284342964" ref="image"/>
+    <file name="scool.css" crc="531544006" ref="scool"/>
+    <file name="partner.css" crc="479793567" ref="partner"/>
+    <file name="vov.css" crc="3785646259" ref="vov"/>
+    <file name="scool-1.css" crc="483370439" ref="scool-1"/>
+    <file name="history_curgan.css" crc="3956883133" ref="history_curgan"/>
+    <file name="history_albom.css" crc="247082370" ref="history_albom"/>
+    <file name="master_______-b.css" crc="283054558" ref="scool:history:vov:partner:uprava:news:scool-1:image:contact:history_curgan:media:lirika:history_albom:mans:lirika1:lirika2:news1:lirika3:news2:news3:history_curgan1:rai:mans1"/>
+    <file name="master_______-a.css" crc="331902405" ref="index"/>
+    <file name="master_______-_.css" crc="268126701" ref="map"/>
+    <file name="lirika1.css" crc="432444695" ref="lirika1"/>
+    <file name="lirika2.css" crc="240417335" ref="lirika2"/>
+    <file name="news1.css" crc="3762976293" ref="news1"/>
+    <file name="lirika3.css" crc="4284342964" ref="lirika3"/>
+    <file name="news2.css" crc="333713792" ref="news2"/>
+    <file name="news3.css" crc="170812329" ref="news3"/>
+    <file name="history_curgan1.css" crc="3775833560" ref="history_curgan1"/>
+    <file name="rai.css" crc="3940928920" ref="rai"/>
+    <file name="mans1.css" crc="4275967262" ref="mans1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:map:lirika:mans:scool:vov:history:news:uprava:image:partner:media:scool-1:history_curgan:history_albom:news1:news2:news3:lirika1:lirika2:lirika3:history_curgan1:rai:mans1"/>
+    <file name="museutils.js" crc="4232573551" ref="index:contact:map:lirika:mans:scool:vov:history:news:uprava:image:partner:media:scool-1:history_curgan:history_albom:news1:news2:news3:lirika1:lirika2:lirika3:history_curgan1:rai:mans1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:map:lirika:mans:scool:vov:history:news:uprava:image:partner:media:scool-1:history_curgan:history_albom:news1:news2:news3:lirika1:lirika2:lirika3:history_curgan1:rai:mans1"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:contact:map:lirika:mans:scool:vov:history:news:uprava:image:partner:media:scool-1:history_curgan:history_albom:news1:news2:news3:lirika1:lirika2:lirika3:history_curgan1:rai:mans1"/>
+    <file name="require.js" crc="4234670167" ref="index:contact:map:lirika:mans:scool:vov:history:news:uprava:image:partner:media:scool-1:history_curgan:history_albom:news1:news2:news3:lirika1:lirika2:lirika3:history_curgan1:rai:mans1"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:contact:map:lirika:mans:scool:vov:history:news:uprava:image:partner:media:scool-1:history_curgan:history_albom:news1:news2:news3:lirika1:lirika2:lirika3:history_curgan1:rai:mans1"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:contact:lirika:mans:scool:vov:history:news:uprava:image:partner:media:scool-1:history_curgan:history_albom:news1:news2:news3:lirika1:lirika2:lirika3:history_curgan1:rai:mans1"/>
+    <file name="webpro.js" crc="3770351119" ref="scool:vov:scool-1:contact:history_albom:map:history:media:news:lirika1:lirika2:history_curgan"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="scool:vov:scool-1:history_albom:map:history:media:news:lirika1:lirika2:history_curgan"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="scool:vov:scool-1:history_albom:map:history:media:news:lirika1:lirika2:history_curgan"/>
+    <file name="touchswipe.js" crc="3912873526" ref="scool:vov:scool-1:history_albom:map:history:media:news:lirika1:lirika2:history_curgan"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u23487.php" crc="16899287" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="351525387" seo="true" mt="1491081598488" redirect="true"/>
+  <file name="contact.html" crc="4886662" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="map.html" crc="3983637398" seo="true" mt="1491078271989" redirect="true"/>
+  <file name="lirika.html" crc="4160694179" seo="true" mt="1491081598486" redirect="true"/>
+  <file name="mans.html" crc="17025337" seo="true" mt="1491071847985" redirect="true"/>
+  <file name="scool.html" crc="246162292" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="vov.html" crc="108584507" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="history.html" crc="3784700296" seo="true" mt="1491081591883" redirect="true"/>
+  <file name="news.html" crc="22552200" seo="true" mt="1491052209826" redirect="true"/>
+  <file name="uprava.html" crc="146879425" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="image.html" crc="260590741" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="partner.html" crc="4246803544" seo="true" mt="1491081598581" redirect="true"/>
+  <file name="media.html" crc="246970262" seo="true" mt="1491065678835" redirect="true"/>
+  <file name="scool-1.html" crc="4133306005" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="history_curgan.html" crc="4185865919" seo="true" mt="1491048657955" redirect="true"/>
+  <file name="history_albom.html" crc="3971477750" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="news1.html" crc="4240993818" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="news2.html" crc="3813038642" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="news3.html" crc="4153892901" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="lirika1.html" crc="455617169" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="lirika2.html" crc="224363290" seo="true" mt="1491052210422" redirect="true"/>
+  <file name="lirika3.html" crc="480131399" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="history_curgan1.html" crc="429656036" seo="true" mt="1491045303605" redirect="true"/>
+  <file name="rai.html" crc="3989966026" seo="true" mt="1491052210858" redirect="true"/>
+  <file name="mans1.html" crc="516266691" seo="true" mt="1491072351917" redirect="true"/>
+</manifest>
